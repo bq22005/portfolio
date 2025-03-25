@@ -12,7 +12,7 @@ export function Profile() {
           <p>Affiliation: Shibaura Inst. of Tech.</p>
         </div>
         <div className={styles.iconContainer}>
-          <img className={styles.icon} src="/deer-icon.png" alt="profile-icon" />
+          <img className={styles.icon} src="/deer-icon.svg" alt="profile-icon" />
         </div>
       </div>
     </div>
