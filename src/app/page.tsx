@@ -11,9 +11,15 @@ export default function Home() {
       <div className={styles.introduce}>
         <img className={styles.wave} src="/wave.svg" alt="wave" />
         <div className={styles.infomation}>
-          <About />
-          <Works />
-          <Contact />
+          <div className={styles.left}>
+            <About />
+          </div>
+          <div className={styles.right}>
+            <Works />
+          </div>
+          <div className={styles.left}>
+            <Contact />
+          </div>
         </div>
       </div>
     </div>

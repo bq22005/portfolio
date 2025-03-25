@@ -1,6 +1,7 @@
 .about {
-  padding: 0 40% 200px 10%;
-  margin: 0 auto;
+  margin-bottom: 400px;
+  width: 70%;
+  max-width: 800px;
 }
 
 .sentence {
