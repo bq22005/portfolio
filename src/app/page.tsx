@@ -1,5 +1,6 @@
 import styles from "./page.module.css";
-import { Profile } from "./components/layouts/Profile";
+import { Profile } from "@/app/components/layouts/Profile";
+import { Works } from "@/app/components/layouts/Works";
 
 export default function Home() {
   return (
@@ -7,7 +8,9 @@ export default function Home() {
       <Profile />
       <div className={styles.introduce}>
         <img className={styles.wave} src="/wave.svg" alt="wave" />
-        <div className={styles.infomation}></div>
+        <div className={styles.infomation}>
+          <Works />
+        </div>
       </div>
     </div>
   );
