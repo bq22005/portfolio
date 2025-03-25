@@ -1,11 +1,10 @@
 .page {
   position: relative;
-  text-align: center;
 }
 
 .introduce {
   position: relative;
-  margin-top: 150px;
+  margin-top: 220px;
   z-index: 1;
 }
 
