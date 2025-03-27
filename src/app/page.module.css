@@ -21,11 +21,11 @@
 .left {
   margin: 0 7%;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
 }
 
 .right {
   margin: 0 7%;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
