@@ -21,9 +21,7 @@
 }
 
 .group {
-  padding-right: 20px;
   display: flex;
-  gap: 20px;
   flex: 0 0 50%;
   will-change: transform;
   animation: scrolling 20s linear infinite;
