@@ -12,7 +12,7 @@ export function Profile() {
           <p>Affiliation: Shibaura Inst. of Tech.</p>
         </div>
         <div className={styles.iconContainer}>
-          <a href="https://github.com/bq22005" target="_blank"><img className={styles.icon} src="/deer-icon.svg" alt="profile-icon" /></a>
+          <a href="https://github.com/bq22005" target="_blank"><img className={styles.icon} src="https://github.com/bq22005.png" alt="profile-icon" /></a>
         </div>
       </div>
     </div>
