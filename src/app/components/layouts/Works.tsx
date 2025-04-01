@@ -11,18 +11,18 @@ export function Works() {
           <div className={styles.wrapper}>
             <div className={styles.group}>
               <WorkItem
-                imgSrc="/SalTrac-icon.png"
-                imgAlt="saltrac-icon"
-                explanation="　ハッカソンにて、SNS 機能と機械学習による塩分摂取量管理を組み合わせたWebアプリケーションを製作しました。"
-                link="https://github.com/Dreams20250215/SalTrac.git"
+                imgSrc="/xchat-icon.png"
+                imgAlt="xchat-icon"
+                explanation="　リアルタイムで翻訳しながら会話ができるチャットアプリを製作しています。"
+                link="https://github.com/bq22005/Xchat"
               >
-                SalTrac
+                Xchat
               </WorkItem>
               <WorkItem
                 imgSrc="/willtify-icon.png"
                 imgAlt="willtify-icon"
                 explanation="　宛先を指定せず、送信日のみを指定して手紙を送信するWebアプリケーションを製作しています。"
-                link="https://github.com/Dreams20250215/SalTrac.git"
+                link="https://github.com/bq22005/portfolio"
               >
                 willtify
               </WorkItem>
@@ -30,25 +30,25 @@ export function Works() {
                 imgSrc="/SalTrac-icon.png"
                 imgAlt="saltrac-icon"
                 explanation="　ハッカソンにて、SNS 機能と機械学習による塩分摂取量管理を組み合わせたWebアプリケーションを製作しました。"
-                link="https://github.com/Dreams20250215/SalTrac.git"
+                link="https://github.com/Dreams20250215/SalTrac"
               >
                 SalTrac
               </WorkItem>
             </div>
             <div className={styles.group}>
               <WorkItem
-                imgSrc="/SalTrac-icon.png"
-                imgAlt="saltrac-icon"
-                explanation="　ハッカソンにて、SNS 機能と機械学習による塩分摂取量管理を組み合わせたWebアプリケーションを製作しました。"
-                link="https://github.com/Dreams20250215/SalTrac.git"
+                imgSrc="/xchat-icon.png"
+                imgAlt="xchat-icon"
+                explanation="　リアルタイムで翻訳しながら会話ができるチャットアプリを製作しています。"
+                link="https://github.com/bq22005/Xchat"
               >
-                SalTrac
+                Xchat
               </WorkItem>
               <WorkItem
                 imgSrc="/willtify-icon.png"
                 imgAlt="willtify-icon"
                 explanation="　宛先を指定せず、送信日のみを指定して手紙を送信するWebアプリケーションを製作しています。"
-                link="https://github.com/Dreams20250215/SalTrac.git"
+                link="https://github.com/bq22005/portfolio"
               >
                 willtify
               </WorkItem>
@@ -56,7 +56,7 @@ export function Works() {
                 imgSrc="/SalTrac-icon.png"
                 imgAlt="saltrac-icon"
                 explanation="　ハッカソンにて、SNS 機能と機械学習による塩分摂取量管理を組み合わせたWebアプリケーションを製作しました。"
-                link="https://github.com/Dreams20250215/SalTrac.git"
+                link="https://github.com/Dreams20250215/SalTrac"
               >
                 SalTrac
               </WorkItem>
